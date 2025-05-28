@@ -1,16 +1,19 @@
-## Hi there 👋
+# 💫 About Me:
+## Hi there 👋 I'm Nancy Abo Essa<br><br>🌟 Passionate Flutter Developer | Firebase Enthusiast | Clean Architecture Advocate<br><br>---<br><br>### 🚀 About Me<br>I'm a junior Flutter developer with hands-on experience building high-performance cross-platform mobile and web applications. I love creating clean and responsive UIs, integrating with Firebase & REST APIs, and applying best practices like SOLID principles and state management using Cubit.<br><br>---<br><br>### 🛠️ Tech Stack<br>- 💻 **Languages:** Dart, C++<br>- 📱 **Frameworks:** Flutter<br>- ☁️ **Backend & Tools:** Firebase, SQLite, Hive, Dio, Shared Preferences<br>- 🧠 **Architecture & Patterns:** Cubit, Clean Architecture, OOP, SOLID<br>- 🔧 **Other Tools:** Git, GitHub, CI/CD, Flutter Flavors<br><br>---<br><br>### 📚 Currently Learning<br>- Advanced animations in Flutter<br>- fluter flavors<br>- CI\CD<br>- Maps - Payment<br>---<br><br>### 💼 Projects<br>Here are some of my favorite projects:<br>- 🛍️ **Etradeling Website & Admin Panel** – Flutter Web E-commerce platform with Firebase<br>- ✅ **Taskati App** – Task manager with Hive storage and Cubit<br>- 🍕 **Pizza Restaurant App** – Mobile ordering app with Firebase backend<br>- 📰 **BBC News App** – Real-time news app with API integration<br>- 🧾 **Todo App** – Offline task manager with SQLite<br><br>> Check out more on my [GitHub Repositories](https://github.com/NancyAboessa?tab=repositories)<br><br>---<br><br>### 📫 How to reach me:<br>- ✉️ Email: nancyaboessa38@gmail.com  <br>- 💼 LinkedIn: [nancy-aboessa](https://linkedin.com/in/nancy-aboessa-166a93197)  <br>- 🌐 GitHub: [NancyAboessa](https://github.com/NancyAboessa)<br><br>---<br><br>### 💡 Fun Fact:<br>I transitioned into tech from a background in Spanish studies — and now I build apps that speak every user's language!<br><br>
 
-<!--
-**NancyAboessa/NancyAboessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/NancyAboessa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nancy-aboessa-166a93197/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nancyaboessa38) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/17647927/nancy-aboessa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nancyaboessa38@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NancyAboessa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NancyAboessa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NancyAboessa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=NancyAboessa&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
